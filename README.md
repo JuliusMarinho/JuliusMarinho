@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuliusMarinho
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning Computing Engineering.
-- 💞️ I’m looking to collaborate on all.
+- 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me is coming soon
 
 <!---
